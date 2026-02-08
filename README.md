@@ -5,6 +5,16 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Hello%20Cybersecurity%20experts%20members..." alt="Typing introduction" />
 </p>
 
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=mohitgodarajaat">
+    <img src="https://komarev.com/ghpvc/?username=mohitgodarajaat&label=Profile%20views&color=00FFFF&style=flat-square" alt="mohitgodarajaat's profile views" />
+  </a>
+</p>
+
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Banner" width="100%" />
+
+
+
 
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
