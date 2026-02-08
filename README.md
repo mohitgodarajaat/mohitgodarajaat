@@ -43,7 +43,7 @@
 
 ###
 
-<img align="right" height="150" src="https://files.catbox.moe/rp77yz.gif"  />
+<img align="right" height="145" src="https://files.catbox.moe/rp77yz.gif"  />
 
 ###
 
