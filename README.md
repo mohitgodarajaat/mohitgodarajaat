@@ -35,11 +35,11 @@
 
 ###
 
-<h1 align="center">💀जाट बलवान जय भगवान📿🚩</h1>
+<h1 align="center">🔱I'm Mohit Godara from Hisar(Haryana)📍</h1>
 
 ###
 
-<h3 align="center">🔱I'm Mohit Godara from Hisar(Haryana)📍</h3>
+<h5 align="center">💀जाट बलवान जय भगवान📿🚩</h5>
 
 ###
 
