@@ -1,5 +1,5 @@
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=%F0%9F%9B%A1%EF%B8%8FMohit%20Exploits%F0%9F%92%80&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=%E2%98%A0%EF%B8%8FCybersecurity%E2%98%A0%EF%B8%8F%20%F0%9F%92%BBBug%20Bounty%20%7C%20%E2%98%A0%EF%B8%8F%20Ethical%20Hacking%20%E2%98%A0%EF%B8%8F&descSize=18&descAlignY=30&textBg=false"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=%F0%9F%9B%A1%EF%B8%8FMohit%20Exploits%F0%9F%92%80&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=%E2%98%A0%EF%B8%8FCybersecurity%E2%98%A0%EF%B8%8F%20%F0%9F%92%BBBug%20Bounty%20%7C%20%E2%98%A0%EF%B8%8F%20Ethical%20Hacking%20%E2%98%A0%EF%B8%8F&descSize=18&descAlignY=55&textBg=false"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Hello%20Cybersecurity%20experts%20members..." alt="Typing introduction" />
