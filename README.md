@@ -1,7 +1,10 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=%F0%9F%94%B1Mohit%20Godara%F0%9F%92%80&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&textBg=false"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Hello%20Cybersecurity%20experts%20members..." alt="Typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=%F0%9F%91%8B%F0%9F%8F%BBHii%20machine%20learners%20with%20AI%F0%9F%A4%96" alt="Typing introduction" />
 </p>
+
+
 
 
 <div align="center">
@@ -104,9 +107,9 @@
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohitgodarajaat/mohitgodarajaat/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohitgodarajaat/mohitgodarajaat/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mohitgodarajaat/mohitgodarajaat/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
 </picture>
 
 ###
