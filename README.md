@@ -4,7 +4,6 @@
 </p>
 
 
-
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
@@ -38,7 +37,7 @@
 
 ###
 
-<h4 align="center">🔱About Me ✅</h4>
+<h3 align="center">🔱About Me ✅</h3>
 
 ###
 
@@ -48,7 +47,7 @@
 
 ###
 
-<h5 align="center">🤖 AI & Machine Learning | Data-Driven Problem Solver | Passionate about Intelligent Systems | Aspiring ML Engineer 🚀📊</h5>
+<h4 align="center">🤖 AI & Machine Learning | Data-Driven Problem Solver | Passionate about Intelligent Systems | Aspiring ML Engineer 🚀📊</h4>
 
 ###
 
@@ -111,6 +110,7 @@
 </picture>
 
 ###
+
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
