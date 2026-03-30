@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=%F0%9F%91%8B%F0%9F%8F%BBHii%20machine%20learners%20with%20AI%F0%9F%A4%96" alt="Typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=%F0%9F%91%8B%F0%9F%8F%BBHii%20all%20learners%20with%20me%F0%9F%A4%96" alt="Typing introduction" />
 </p>
 
 
