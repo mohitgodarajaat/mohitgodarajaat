@@ -49,7 +49,12 @@
 
 ###
 
-<h4 align="center">🤖 AI & Machine Learning | Data-Driven Problem Solver | Passionate about Intelligent Systems | Aspiring ML Engineer 🚀📊</h4>
+<h4 align="center">⚡BTech IT Student | Tech Journey 🚀
+
+💻 Code • 🌐 Web • 🔐 Security • 🤖 AI • ☁️ Cloud • 📡 Networks
+
+> *Explore → Build → Grow* 🚀
+</h4>
 
 ###
 
